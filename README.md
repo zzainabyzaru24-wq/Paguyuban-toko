@@ -1,2 +1,2 @@
 # Paguyuban-toko
-E-commere
+E-commerce
